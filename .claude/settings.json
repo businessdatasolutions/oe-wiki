@@ -1,0 +1,60 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npm ci *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(npx quartz *)",
+      "Bash(curl -sf http://localhost:8080/)",
+      "WebFetch(domain:quartz.jzhao.xyz)",
+      "Bash(node scripts/lint-page.mjs *)",
+      "Bash(node scripts/lint-confidence.mjs)",
+      "Bash(node scripts/lint-dangling-authors.mjs)",
+      "Bash(node scripts/lint-appendix-coverage.mjs)",
+      "Bash(node scripts/lint-rubric-version-drift.mjs)",
+      "Bash(node scripts/graph-export.mjs)",
+      "Bash(node scripts/quality-score.mjs *)",
+      "Bash(node scripts/quality-source-page.mjs *)",
+      "Bash(node scripts/wiki-query.mjs *)",
+      "Bash(node scripts/bump-accessed.mjs *)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node $CLAUDE_PROJECT_DIR/scripts/session-start.mjs"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node $CLAUDE_PROJECT_DIR/scripts/lint-page.mjs"
+          },
+          {
+            "type": "command",
+            "command": "node $CLAUDE_PROJECT_DIR/scripts/on-rubric-change.mjs"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node $CLAUDE_PROJECT_DIR/scripts/session-end.mjs"
+          }
+        ]
+      }
+    ]
+  }
+}
