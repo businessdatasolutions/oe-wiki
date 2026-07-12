@@ -4,18 +4,19 @@ import { InjectTypeTags } from "./extensions/inject-type-tags"
 import { InjectAliases } from "./extensions/inject-aliases"
 import { InjectStaleBanner } from "./extensions/inject-stale-banner"
 import { InjectConfidenceBadge } from "./extensions/inject-confidence-badge"
+import { InjectStageDiagram } from "./extensions/inject-stage-diagram"
 import { StripDataview } from "./extensions/strip-dataview"
 import { LatexNoSingleDollar } from "./extensions/latex-no-single-dollar"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "LLM Wiki",
+    pageTitle: "Operational Excellence Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "example.github.io/llm-wiki",
+    baseUrl: "businessdatasolutions.github.io/oe-wiki",
     ignorePatterns: [
       "private",
       "templates",
@@ -78,6 +79,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       InjectConfidenceBadge(),
+      InjectStageDiagram(),
       InjectAliases(),
       LatexNoSingleDollar(),
     ],

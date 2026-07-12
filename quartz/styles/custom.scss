@@ -1,3 +1,88 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// --- 4D "you-are-here" diagram (FR-13, LRD Deel 6.2/8.1) --------------------
+// Injected by extensions/inject-stage-diagram.ts on wiki/weeks/*.md pages
+// (type: week-landing). Structurally modelled on the source textbook's
+// recurring "this chapter examines..." chapter-opener diagram: four stage
+// nodes (Direct/Design/Deliver/Develop) around a central hub, connected in a
+// cycle, current stage highlighted.
+.stage-diagram-figure {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.stage-diagram {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+}
+
+.stage-diagram-connector {
+  fill: none;
+  stroke: var(--gray);
+  stroke-width: 2.5;
+}
+
+.stage-diagram-arrowhead {
+  fill: var(--gray);
+}
+
+.stage-diagram-hub circle {
+  fill: var(--light);
+  stroke: var(--darkgray);
+  stroke-width: 1.5;
+}
+
+.stage-diagram-hub text {
+  fill: var(--darkgray);
+  font-size: 10px;
+  font-family: var(--bodyFont);
+}
+
+.stage-diagram-node circle {
+  fill: var(--light);
+  stroke: var(--gray);
+  stroke-width: 2;
+}
+
+.stage-diagram-node text {
+  fill: var(--darkgray);
+  font-family: var(--bodyFont);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.stage-diagram-node .stage-diagram-week {
+  font-size: 10px;
+  font-weight: 400;
+  fill: var(--gray);
+}
+
+.stage-diagram-node--active circle {
+  fill: var(--secondary);
+  stroke: var(--secondary);
+}
+
+.stage-diagram-node--active text {
+  fill: var(--light);
+}
+
+.stage-diagram-node--active .stage-diagram-week {
+  fill: var(--light);
+  opacity: 0.85;
+}
+
+.stage-diagram-here-label {
+  font-size: 11px;
+  font-weight: 700;
+  fill: var(--tertiary);
+  font-family: var(--bodyFont);
+}
+
+.stage-diagram-caption {
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin-top: 0.25rem;
+}

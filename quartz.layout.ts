@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [RelationshipsPanel()],
   footer: CatalogFooter({
     links: {
-      GitHub: "https://github.com/example/llm-wiki",
+      GitHub: "https://github.com/businessdatasolutions/oe-wiki",
     },
   }),
 }
