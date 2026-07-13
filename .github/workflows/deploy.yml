@@ -29,6 +29,12 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build -d wiki
+        env:
+          # FR-30 / buildplan Main Task 19.1: unset until GoatCounter's
+          # one-time manual account signup is done and this secret is added
+          # in repo Settings -> Secrets -> Actions; quartz.config.ts falls
+          # back to analytics: null when it's empty, so this is safe today.
+          QUARTZ_GOATCOUNTER_SITE_CODE: ${{ secrets.QUARTZ_GOATCOUNTER_SITE_CODE }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

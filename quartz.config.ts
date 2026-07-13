@@ -8,13 +8,29 @@ import { InjectStageDiagram } from "./extensions/inject-stage-diagram"
 import { StripDataview } from "./extensions/strip-dataview"
 import { LatexNoSingleDollar } from "./extensions/latex-no-single-dollar"
 
+// FR-30 (TDD Deel 3.7 "Wiki-gebruiksanalyse", buildplan Main Task 19.1):
+// GoatCounter — self-hostable, privacy-oriented aggregate-only analytics
+// (no individual cookies/fingerprinting), confirmed at Task 19 kickoff as
+// the provider from Task 13.4's open point. Quartz supports it natively
+// (`quartz/cfg.ts`'s `Analytics` union) as a pure config change, no new
+// code. The `websiteId` is a GoatCounter *site code*, not a secret in the
+// usual sense, but it still must never be hardcoded/fabricated here — it
+// only exists once someone completes GoatCounter's one-time manual account
+// signup (https://www.goatcounter.com/signup). Until the
+// `QUARTZ_GOATCOUNTER_SITE_CODE` env var is set (see
+// `.github/workflows/deploy.yml`), this safely stays `null`, identical to
+// the previous behaviour — the wiring is complete, activation is not.
+const goatcounterSiteCode = process.env.QUARTZ_GOATCOUNTER_SITE_CODE?.trim()
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Operational Excellence Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: goatcounterSiteCode
+      ? { provider: "goatcounter", websiteId: goatcounterSiteCode }
+      : null,
     locale: "en-US",
     baseUrl: "businessdatasolutions.github.io/oe-wiki",
     ignorePatterns: [
