@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Poka-Yoke (Error Proofing) ↔ Sensor-Based Error Detection
 
-Referentiepagina 9/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 9/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ Poka-Yoke voorkomt fouten door systemen zo te ontwerpen dat afwijkingen automati
 
 - **Hoofdstuk:** Ch17
 - **D-fase:** develop
-- **Redenering:** Poka-Yoke is een foutpreventie-/conformance-tool — inhoudelijk dichter bij Ch17 Quality management ('conformance aan specificatie', 'right first time') dan bij de bredere Lean-verbetertoolkit van Ch16, ook al classificeert Gomaa het als een Lean-tool.
+- **Redenering:** Poka-Yoke is een foutpreventie-/conformance-tool: inhoudelijk staat het dichter bij Ch17 Quality management ('conformance aan specificatie', 'right first time') dan bij de bredere Lean-verbetertoolkit van Ch16, ook al classificeert Gomaa het als een Lean-tool.
 
 ## Citations
 

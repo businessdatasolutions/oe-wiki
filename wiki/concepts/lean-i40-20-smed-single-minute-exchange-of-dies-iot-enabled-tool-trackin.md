@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # SMED (Single-Minute Exchange of Dies) ↔ IoT-Enabled Tool Tracking
 
-Referentiepagina 20/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 20/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -24,7 +24,7 @@ klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## Hoe de koppeling werkt
 
-SMED verkort machineomsteltijden. IoT-gebaseerde toolstracking zorgt dat de juiste gereedschappen realtime beschikbaar zijn bij omstellingen, wat opstelttijd vermindert en productieonderbrekingen minimaliseert.
+SMED verkort machineomsteltijden. IoT-gebaseerde tool-tracking zorgt dat de juiste gereedschappen realtime beschikbaar zijn bij omstellingen, wat omsteltijd vermindert en productieonderbrekingen minimaliseert.
 
 ## Chapter-tag en redenering
 

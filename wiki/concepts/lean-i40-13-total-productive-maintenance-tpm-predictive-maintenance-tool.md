@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Total Productive Maintenance (TPM) ↔ Predictive Maintenance Tools
 
-Referentiepagina 13/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 13/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ TPM richt zich op maximale betrouwbaarheid van apparatuur. Predictive-maintenanc
 
 - **Hoofdstuk:** Ch16
 - **D-fase:** develop
-- **Redenering:** TPM staat in Gomaa's eigen Tabel I naast Kaizen als kernonderdeel van de klassieke Lean-toolkit — Ch16 Lean operations.
+- **Redenering:** TPM staat in Gomaa's eigen Tabel I naast Kaizen als kernonderdeel van de klassieke Lean-toolkit, Ch16 Lean operations.
 
 ## Citations
 

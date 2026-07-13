@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Heijunka (Production Leveling) ↔ ERP Systems
 
-Referentiepagina 22/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 22/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ Heijunka richt zich op het nivelleren van productie om aan klantvraag te voldoen
 
 - **Hoofdstuk:** Ch11
 - **D-fase:** deliver
-- **Redenering:** Productienivellering tegen vraagschommelingen is inhoudelijk **capaciteitsmanagement** (Ch11) — het balanceren van vraag en aanbod door de tijd heen — eerder dan een generieke Lean-verbetertool.
+- **Redenering:** Productienivellering tegen vraagschommelingen is inhoudelijk **capaciteitsmanagement** (Ch11), het balanceren van vraag en aanbod door de tijd heen, eerder dan een generieke Lean-verbetertool.
 
 ## Citations
 

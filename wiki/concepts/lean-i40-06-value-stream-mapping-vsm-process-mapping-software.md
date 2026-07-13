@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Value Stream Mapping (VSM) ↔ Process Mapping Software
 
-Referentiepagina 6/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 6/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -24,7 +24,7 @@ klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## Hoe de koppeling werkt
 
-VSM visualiseert de stroom van materiaal en informatie. Procesmapping-software tilt dit naar een hoger niveau met real-time, interactieve visualisaties van de volledige productiestroom, wat inefficiënties identificeert en optimalisatie vergemakkelijkt.
+VSM visualiseert de stroom van materiaal en informatie. Procesmapping-software tilt dit naar een hoger niveau met realtime, interactieve visualisaties van de volledige productiestroom, wat inefficiënties identificeert en optimalisatie vergemakkelijkt.
 
 ## Chapter-tag en redenering
 

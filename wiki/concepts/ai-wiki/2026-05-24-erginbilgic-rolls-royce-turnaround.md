@@ -1,7 +1,7 @@
 ---
 type: ai-wiki-contentmap
-title: "Erginbilgiç (Bloomberg, 2026) — Rolls-Royce turnaround"
-description: "Een niet-digitale strategieherpositionerings-case (burning-platform-toespraak, granulaire strategie, strategie-als-participatie) die de boekcases (IKEA, Toyota, Ryanair — zie `wiki/sources/`) aanvult met een bewust AI-onafhankelijk 2023–2026-voorbeeld."
+title: "Erginbilgiç (Bloomberg, 2026): Rolls-Royce turnaround"
+description: "Een niet-digitale strategieherpositionerings-case (burning-platform-toespraak, granulaire strategie, strategie-als-participatie) die de boekcases (IKEA, Toyota, Ryanair; zie `wiki/sources/`) aanvult met een bewust AI-onafhankelijk 2023–2026-voorbeeld."
 stage: direct
 tags: [ai-wiki, orig-source]
 confidence: 0.7
@@ -9,17 +9,17 @@ source_count: 1
 last_confirmed: "2026-07-12"
 ---
 
-# Erginbilgiç (Bloomberg, 2026) — Rolls-Royce turnaround
+# Erginbilgiç (Bloomberg, 2026): Rolls-Royce turnaround
 
-Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace — het origineel-slug, het originele paginatype, en waarom de pagina relevant is voor deze cursus — zodat de link traceerbaar blijft zonder de externe wiki's content te fabriceren.
+Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace: het origineel-slug, het originele paginatype en waarom de pagina relevant is voor deze cursus. Zo blijft de link traceerbaar zonder dat de content van de externe wiki wordt gefabriceerd.
 
 - **Origineel pad (extern, AI-Wiki):** `wiki/sources/2026-05-24-erginbilgic-bloomberg-leaders-rolls-royce-turnaround-playbook.md`
 - **Origineel paginatype:** source
-- **D-fase (LRD §8.1):** direct
+- **D-fase (LRD sectie 8.1):** direct
 
 ## Waarom relevant voor deze cursus
 
-Een niet-digitale strategieherpositionerings-case (burning-platform-toespraak, granulaire strategie, strategie-als-participatie) die de boekcases (IKEA, Toyota, Ryanair — zie `wiki/sources/`) aanvult met een bewust AI-onafhankelijk 2023–2026-voorbeeld.
+Een niet-digitale strategieherpositionerings-case (burning-platform-toespraak, granulaire strategie, strategie-als-participatie) die de boekcases (IKEA, Toyota, Ryanair; zie `wiki/sources/`) aanvult met een bewust AI-onafhankelijk 2023–2026-voorbeeld.
 
 ## Citations
 

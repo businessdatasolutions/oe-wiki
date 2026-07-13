@@ -1,7 +1,7 @@
 ---
 type: boek-concept
 title: "Ch13 — Inventory management"
-description: "Voorraadmanagement beantwoordt de klassieke volume- en timingvraag: hoeveel bestellen, en wanneer? Samen met Ch12 laat dit zien waar in een keten waarde kan weglekken."
+description: "Voorraadmanagement beantwoordt de klassieke volume- en timingvraag: hoeveel bestellen en wanneer? Samen met Ch12 laat dit zien waar in een keten waarde kan weglekken."
 stage: deliver
 tags: [boek-concept, ch13]
 confidence: 0.7
@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Ch13 — Inventory management
 
-Voorraadmanagement beantwoordt de klassieke volume- en timingvraag: hoeveel bestellen, en wanneer? Samen met Ch12 laat dit zien waar in een keten waarde kan weglekken.
+Voorraadmanagement beantwoordt de klassieke volume- en timingvraag: hoeveel bestellen en wanneer? Samen met Ch12 laat dit zien waar in een keten waarde kan weglekken.
 
 ## Positie in het weekprogramma
 
@@ -19,7 +19,7 @@ Voorraadmanagement beantwoordt de klassieke volume- en timingvraag: hoeveel best
 - **Week:** week 11
 - **Gate:** geen gate deze week
 
-Het hoofdstuk bevat 'Amazon’s ‘anticipatory inventory’' — zie de bedrijfscasepagina [[amazon]] in `wiki/sources/`.
+Het hoofdstuk bevat "Amazon's 'anticipatory inventory'" (zie de bedrijfscasepagina [[amazon]] in `wiki/sources/`).
 
 ## Citations
 

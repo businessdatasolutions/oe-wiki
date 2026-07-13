@@ -1,7 +1,7 @@
 ---
 type: boek-concept
 title: "Ch02 — Operations performance"
-description: "Waarom is operationele prestatie cruciaal, op maatschappelijk, strategisch én operationeel niveau? De vijf performance-objectives — kwaliteit, snelheid, betrouwbaarheid, flexibiliteit, kosten — bepalen hoe prestaties gemeten en beoordeeld worden."
+description: "Waarom is operationele prestatie cruciaal, op maatschappelijk, strategisch én operationeel niveau? De vijf performance-objectives (kwaliteit, snelheid, betrouwbaarheid, flexibiliteit, kosten) bepalen hoe prestaties gemeten en beoordeeld worden."
 stage: direct
 tags: [boek-concept, ch02]
 confidence: 0.7
@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Ch02 — Operations performance
 
-Waarom is operationele prestatie cruciaal, op maatschappelijk, strategisch én operationeel niveau? De vijf performance-objectives — kwaliteit, snelheid, betrouwbaarheid, flexibiliteit, kosten — bepalen hoe prestaties gemeten en beoordeeld worden. Centraal staat hoe deze doelstellingen tegen elkaar worden afgewogen wanneer ze conflicteren.
+Waarom is operationele prestatie cruciaal, op maatschappelijk, strategisch én operationeel niveau? De vijf performance-objectives (kwaliteit, snelheid, betrouwbaarheid, flexibiliteit, kosten) bepalen hoe prestaties gemeten en beoordeeld worden. Centraal staat hoe deze doelstellingen tegen elkaar worden afgewogen wanneer ze conflicteren.
 
 ## Key questions (verbatim uit het bronboek)
 
@@ -28,7 +28,7 @@ Waarom is operationele prestatie cruciaal, op maatschappelijk, strategisch én o
 - **Week:** week 2
 - **Gate:** geen gate deze week
 
-Het hoofdstuk bevat de 'Case study: IKEA looks to the future' — zie de bedrijfscasepagina [[ikea]] in `wiki/sources/`.
+Het hoofdstuk bevat de "Case study: IKEA looks to the future" (zie de bedrijfscasepagina [[ikea]] in `wiki/sources/`).
 
 ## Citations
 

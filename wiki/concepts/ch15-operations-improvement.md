@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Ch15 — Operations improvement
 
-Operations improvement onderzoekt hoe verbetering wordt aangepakt, gemeten en gemanaged. Voor het eerst wordt expliciet gevraagd welke van de klassieke Ch15–17-concepten onder Lean 4.0 verouderd, versterkt, of onveranderd relevant zijn (LRD §6.9, leeruitkomst 8). Dit bereidt direct voor op de DMAIC-capstone in week 15.
+Operations improvement onderzoekt hoe verbetering wordt aangepakt, gemeten en gemanaged. Voor het eerst wordt expliciet gevraagd welke van de klassieke Ch15–17-concepten onder Lean 4.0 verouderd, versterkt of onveranderd relevant zijn (LRD paragraaf 6.9, leeruitkomst 8). Dit bereidt direct voor op de DMAIC-capstone in week 15.
 
 ## Positie in het weekprogramma
 
@@ -19,7 +19,7 @@ Operations improvement onderzoekt hoe verbetering wordt aangepakt, gemeten en ge
 - **Week:** week 13
 - **Gate:** geen gate deze week
 
-**Let op — 10e-editie-correctie (LRD Deel 6.2/Deel 8):** in eerdere edities van het bronboek stond Lean operations vóór Operations improvement; de 10e druk (2022) verplaatste Lean operations naar het Develop-deel en wisselde het hoofdstuknummer met Operations improvement. Deze wiki gebruikt de gecorrigeerde 10e-editienummering: **Ch15 = Operations improvement**, Ch16 = Lean operations. Het hoofdstuk bevat 'Kaizen at Amazon' — zie [[amazon]].
+**Let op, 10e-editie-correctie (LRD Deel 6.2/Deel 8):** in eerdere edities van het bronboek stond Lean operations vóór Operations improvement; de 10e druk (2022) verplaatste Lean operations naar het Develop-deel en wisselde het hoofdstuknummer met Operations improvement. Deze wiki gebruikt de gecorrigeerde 10e-editienummering: **Ch15 = Operations improvement**, Ch16 = Lean operations. Het hoofdstuk bevat 'Kaizen at Amazon' (zie [[amazon]]).
 
 ## Citations
 

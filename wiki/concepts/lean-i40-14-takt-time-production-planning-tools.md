@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Takt Time ↔ Production Planning Tools
 
-Referentiepagina 14/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 14/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ Takt Time synchroniseert productie met vraag. Productieplanningstools helpen pro
 
 - **Hoofdstuk:** Ch10
 - **D-fase:** deliver
-- **Redenering:** Takt time — het tempo van productie afstemmen op klantvraag — is inhoudelijk planning-and-control-stof (Ch10), niet uitsluitend een Lean-verbetertechniek.
+- **Redenering:** Takt time (het tempo van productie afstemmen op klantvraag) is inhoudelijk planning-and-control-stof (Ch10), niet uitsluitend een Lean-verbetertechniek.
 
 ## Citations
 

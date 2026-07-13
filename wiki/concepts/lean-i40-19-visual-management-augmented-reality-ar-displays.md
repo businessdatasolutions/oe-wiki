@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Visual Management ↔ Augmented Reality (AR) Displays
 
-Referentiepagina 19/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 19/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)

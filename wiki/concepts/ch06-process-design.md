@@ -1,7 +1,7 @@
 ---
 type: boek-concept
 title: "Ch06 — Process design"
-description: "Wat is procesontwerp, en welke doelstellingen moet het dienen? Volume en variëteit bepalen fundamenteel hoe een proces wordt ingericht — Mass Customisation, mogelijk gemaakt door het Social Internet of Things, laat zien hoe cyber-physical systems massaproductie tóch individueel aanpasbaar maken (Pant et al., 2025; LRD §6.9)."
+description: "Wat is procesontwerp, en welke doelstellingen moet het dienen? Volume en variëteit bepalen fundamenteel hoe een proces wordt ingericht. Mass Customisation, mogelijk gemaakt door het Social Internet of Things, laat zien hoe cyber-physical systems massaproductie tóch individueel aanpasbaar maken (Pant et al., 2025; LRD sectie 6.9)."
 stage: design
 tags: [boek-concept, ch06]
 confidence: 0.7
@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Ch06 — Process design
 
-Wat is procesontwerp, en welke doelstellingen moet het dienen? Volume en variëteit bepalen fundamenteel hoe een proces wordt ingericht — Mass Customisation, mogelijk gemaakt door het Social Internet of Things, laat zien hoe cyber-physical systems massaproductie tóch individueel aanpasbaar maken (Pant et al., 2025; LRD §6.9). Studenten ontwerpen een proces dat past bij de volume-variëteitspositie van hun eigen case.
+Wat is procesontwerp, en welke doelstellingen moet het dienen? Volume en variëteit bepalen fundamenteel hoe een proces wordt ingericht. Mass Customisation, mogelijk gemaakt door het Social Internet of Things, laat zien hoe cyber-physical systems massaproductie tóch individueel aanpasbaar maken (Pant et al., 2025; LRD sectie 6.9). Studenten ontwerpen een proces dat past bij de volume-variëteitspositie van hun eigen case.
 
 ## Positie in het weekprogramma
 
@@ -19,7 +19,7 @@ Wat is procesontwerp, en welke doelstellingen moet het dienen? Volume en variët
 - **Week:** week 6
 - **Gate:** geen gate deze week
 
-Industry 5.0-verrijkingsweek (LRD §6.9): SIoT en cyber-physical systems naast de klassieke procesontwerp-stof.
+Industry 5.0-verrijkingsweek (LRD sectie 6.9): SIoT en cyber-physical systems naast de klassieke procesontwerp-stof.
 
 ## Citations
 

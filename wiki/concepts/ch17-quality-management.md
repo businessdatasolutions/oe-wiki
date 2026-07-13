@@ -19,7 +19,7 @@ Kwaliteitsmanagement voegt conformance-aan-specificatie en TQM toe aan de verbet
 - **Week:** week 13
 - **Gate:** geen gate deze week
 
-Het hoofdstuk bevat 'Augmented reality technology adds to IKEA’s service quality' — een tweede, aanvullende IKEA-vermelding naast de hoofdcase in Ch2 (zie [[ikea]]).
+Het hoofdstuk bevat 'Augmented reality technology adds to IKEA's service quality', een tweede, aanvullende IKEA-vermelding naast de hoofdcase in Ch2 (zie [[ikea]]).
 
 ## Citations
 

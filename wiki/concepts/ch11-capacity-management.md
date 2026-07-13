@@ -19,7 +19,7 @@ Capaciteitsmanagement voegt aan Ch10 de vraag toe hoeveel capaciteit een organis
 - **Week:** week 10
 - **Gate:** geen gate deze week
 
-Gecombineerd met Ch10 in week 10, samen met de tussentijdse studievoortgangstoets (§6.4a).
+Gecombineerd met Ch10 in week 10, samen met de tussentijdse studievoortgangstoets (paragraaf 6.4a).
 
 ## Citations
 

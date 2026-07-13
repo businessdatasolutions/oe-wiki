@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Hoshin Kanri (Policy Deployment) ↔ Decision Support Systems
 
-Referentiepagina 21/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 21/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ Hoshin Kanri zorgt voor afstemming tussen strategische doelen en operationele ui
 
 - **Hoofdstuk:** Ch03
 - **D-fase:** direct
-- **Redenering:** Hoshin Kanri is *strategie-implementatie* (het vertalen van strategische doelen naar operationele actie) — inhoudelijk hoort dit bij Ch3 Operations strategy, niet bij de Lean-verbetertoolkit van Ch16, ook al staat het in Gomaa's Tabel VII als Lean-tool.
+- **Redenering:** Hoshin Kanri is *strategie-implementatie* (het vertalen van strategische doelen naar operationele actie). Inhoudelijk hoort dit bij Ch3 Operations strategy, niet bij de Lean-verbetertoolkit van Ch16, ook al staat het in Gomaa's Tabel VII als Lean-tool.
 
 ## Citations
 

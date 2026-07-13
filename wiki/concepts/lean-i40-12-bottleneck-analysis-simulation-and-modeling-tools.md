@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Bottleneck Analysis ↔ Simulation and Modeling Tools
 
-Referentiepagina 12/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 12/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ Bottleneck Analysis identificeert beperkingen in productie. Simulatie- en modell
 
 - **Hoofdstuk:** Ch10
 - **D-fase:** deliver
-- **Redenering:** Bottleneck-analyse (theory of constraints) is expliciet Ch10-stof (Planning and control) — het bronboek behandelt scheduling en de theory of constraints in hetzelfde hoofdstuk als de Ryanair-case (zie [[ryanair]]).
+- **Redenering:** Bottleneck-analyse (theory of constraints) is expliciet Ch10-stof (Planning and control): het bronboek behandelt scheduling en de theory of constraints in hetzelfde hoofdstuk als de Ryanair-case (zie [[ryanair]]).
 
 ## Citations
 

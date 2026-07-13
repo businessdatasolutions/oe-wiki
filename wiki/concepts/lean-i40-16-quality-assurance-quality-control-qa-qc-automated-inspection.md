@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Quality Assurance/Quality Control (QA/QC) ↔ Automated Inspection Systems
 
-Referentiepagina 16/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 16/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -24,13 +24,13 @@ klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## Hoe de koppeling werkt
 
-QA/QC borgt dat producten aan kwaliteitsnormen voldoen. Geautomatiseerde inspectiesystemen benutten sensoren en AI om realtime, consistente kwaliteitscontroles uit te voeren, wat handmatige inspectie vermindert en de snelheid verhoogt.
+QA/QC borgt dat producten aan kwaliteitsnormen voldoen. Geautomatiseerde inspectiesystemen gebruiken sensoren en AI om realtime, consistente kwaliteitscontroles uit te voeren, wat handmatige inspectie vermindert en de snelheid verhoogt.
 
 ## Chapter-tag en redenering
 
 - **Hoofdstuk:** Ch17
 - **D-fase:** develop
-- **Redenering:** QA/QC valt ondubbelzinnig onder Ch17 Quality management — het hoofdstuk waar conformance-aan-specificatie centraal staat.
+- **Redenering:** QA/QC valt ondubbelzinnig onder Ch17 Quality management, het hoofdstuk waar conformance-aan-specificatie centraal staat.
 
 ## Citations
 

@@ -1,7 +1,7 @@
 ---
 type: ai-wiki-contentmap
 title: "Micro-productivity trap"
-description: "Benoemt waar AI-gedreven 'verbetering' waarde lekt in planning en control (offering-lock-in / process-lock-in) — een waarschuwend tegenwicht bij Ch10–13 wanneer de cursus Industrie 4.0/5.0-technologie-adoptie behandelt."
+description: "Benoemt waar AI-gedreven 'verbetering' waarde lekt in planning en control (offering-lock-in / process-lock-in), een waarschuwend tegenwicht bij Ch10–13 wanneer de cursus Industrie 4.0/5.0-technologie-adoptie behandelt."
 stage: deliver
 tags: [ai-wiki, orig-concept]
 confidence: 0.7
@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Micro-productivity trap
 
-Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace — het origineel-slug, het originele paginatype, en waarom de pagina relevant is voor deze cursus — zodat de link traceerbaar blijft zonder de externe wiki's content te fabriceren.
+Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace: het origineel-slug, het originele paginatype en waarom de pagina relevant is voor deze cursus, zodat de link traceerbaar blijft zonder de content van de externe wiki te fabriceren.
 
 - **Origineel pad (extern, AI-Wiki):** `wiki/concepts/micro-productivity-trap.md`
 - **Origineel paginatype:** concept
@@ -19,7 +19,7 @@ Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina be
 
 ## Waarom relevant voor deze cursus
 
-Benoemt waar AI-gedreven 'verbetering' waarde lekt in planning en control (offering-lock-in / process-lock-in) — een waarschuwend tegenwicht bij Ch10–13 wanneer de cursus Industrie 4.0/5.0-technologie-adoptie behandelt.
+Benoemt waar AI-gedreven 'verbetering' waarde lekt in planning en control (offering-lock-in / process-lock-in), een waarschuwend tegenwicht bij Ch10–13 wanneer de cursus Industrie 4.0/5.0-technologie-adoptie behandelt.
 
 ## Citations
 

@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Total Maintenance System (TMS) ↔ Cloud-Based Maintenance Platforms
 
-Referentiepagina 23/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 23/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ TMS centraliseert alle onderhoudsactiviteiten. Cloud-gebaseerde onderhoudsplatfo
 
 - **Hoofdstuk:** Ch16
 - **D-fase:** develop
-- **Redenering:** TMS is de brede/omvattende variant van TPM (rij 13) — beide vallen onder de onderhoudsgerichte Lean-tools van Ch16 Lean operations.
+- **Redenering:** TMS is de brede/omvattende variant van TPM (rij 13). Beide vallen onder de onderhoudsgerichte Lean-tools van Ch16 Lean operations.
 
 ## Citations
 

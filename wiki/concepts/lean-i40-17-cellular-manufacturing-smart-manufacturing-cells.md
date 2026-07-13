@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Cellular Manufacturing ↔ Smart Manufacturing Cells
 
-Referentiepagina 17/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 17/23 uit Gomaa (2025) Tabel VII, de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -24,13 +24,13 @@ klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## Hoe de koppeling werkt
 
-Cellular Manufacturing groepeert werkstations voor efficiënte materiaalstroom. Smart manufacturing cells — aangedreven door IoT en robotica — maken modulaire, flexibele productie-opstellingen mogelijk die snel kunnen worden aangepast aan veranderende vraag.
+Cellular Manufacturing groepeert werkstations voor efficiënte materiaalstroom. Smart manufacturing cells, aangedreven door IoT en robotica, maken modulaire, flexibele productie-opstellingen mogelijk die snel kunnen worden aangepast aan veranderende vraag.
 
 ## Chapter-tag en redenering
 
 - **Hoofdstuk:** Ch07
 - **D-fase:** design
-- **Redenering:** Celindeling is primair een **layout**-keuze (vaste-positie- tot cellulaire layout zijn de basale layout-typen uit Ch7 'The layout and look of facilities'), niet uitsluitend een Lean-verbetertool — vandaar `ch07` in plaats van `ch16`.
+- **Redenering:** Celindeling is primair een **layout**-keuze (vaste-positie- tot cellulaire layouts zijn de basale layout-typen uit Ch7 'The layout and look of facilities'), niet uitsluitend een Lean-verbetertool. Vandaar `ch07` in plaats van `ch16`.
 
 ## Citations
 

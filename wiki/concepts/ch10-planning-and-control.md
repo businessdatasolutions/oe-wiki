@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Ch10 — Planning and control
 
-Planning en control draait om het balanceren van vraag en aanbod door de tijd heen. Deze week loopt daarnaast, los van het gate-systeem, de institutioneel vereiste tussentijdse studievoortgangstoets (LRD §6.4a) — een vroege-signaleringsmoment, geen vijfde poort.
+Planning en control draait om het balanceren van vraag en aanbod door de tijd heen. Deze week loopt daarnaast, los van het gate-systeem, de institutioneel vereiste tussentijdse studievoortgangstoets (LRD paragraaf 6.4a): een vroege-signaleringsmoment, geen vijfde poort.
 
 ## Positie in het weekprogramma
 
@@ -19,7 +19,7 @@ Planning en control draait om het balanceren van vraag en aanbod door de tijd he
 - **Week:** week 10
 - **Gate:** geen gate deze week
 
-Het hoofdstuk bevat 'Ryanair cancels flights after ‘staff scheduling’ errors' — zie de bedrijfscasepagina [[ryanair]] in `wiki/sources/`. Combineert met Ch11 (Capacity management) in dezelfde week.
+Het hoofdstuk bevat "Ryanair cancels flights after 'staff scheduling' errors" (zie de bedrijfscasepagina [[ryanair]] in `wiki/sources/`). Combineert met Ch11 (Capacity management) in dezelfde week.
 
 ## Citations
 

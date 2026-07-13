@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # 8 Lean Waste Analysis ↔ Big Data Analytics
 
-Referentiepagina 4/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 4/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)

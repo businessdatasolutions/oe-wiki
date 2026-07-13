@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Jidoka (Autonomation) ↔ AI-Powered Monitoring Systems
 
-Referentiepagina 10/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 10/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ Jidoka benadrukt menselijk toezicht bij automatisering. AI-gestuurde monitorings
 
 - **Hoofdstuk:** Ch15
 - **D-fase:** develop
-- **Redenering:** De 'Kaizen at Amazon'-case in Ch15 gebruikt letterlijk de term 'autonomation' voor Amazon's aanpak bij de fulfilmentcentra (zie [[amazon]]) — vandaar `ch15` in plaats van het meer generieke `ch16`.
+- **Redenering:** De 'Kaizen at Amazon'-case in Ch15 gebruikt letterlijk de term 'autonomation' voor Amazons aanpak bij de fulfilmentcentra (zie [[amazon]]), vandaar `ch15` in plaats van het meer generieke `ch16`.
 
 ## Citations
 

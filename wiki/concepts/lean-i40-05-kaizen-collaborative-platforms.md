@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Kaizen ↔ Collaborative Platforms
 
-Referentiepagina 5/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 5/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ Kaizen bevordert continue verbetering. Collaborative platforms versterken dit do
 
 - **Hoofdstuk:** Ch15
 - **D-fase:** develop
-- **Redenering:** **Anker (LRD Deel 6.2, expliciet vastgelegd):** Kaizen → Collaborative Platforms → `ch15` (Operations improvement), `stage: develop`. Kaizen is bovendien het onderwerp van de 'Kaizen at Amazon'-case in Ch15 zelf (zie [[amazon]]).
+- **Redenering:** **Anker (LRD Deel 6.2, expliciet vastgelegd):** Kaizen wordt gekoppeld aan Collaborative Platforms, met `ch15` (Operations improvement) en `stage: develop`. Kaizen is bovendien het onderwerp van de 'Kaizen at Amazon'-case in Ch15 zelf (zie [[amazon]]).
 
 ## Citations
 

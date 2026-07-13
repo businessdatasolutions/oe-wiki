@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Gemba Walk ↔ Digital Twin
 
-Referentiepagina 1/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 1/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -24,7 +24,7 @@ klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## Hoe de koppeling werkt
 
-Gemba Walks moedigen managers aan om operaties direct te observeren. Digital-twin-technologie voegt daar een real-time digitale replica van het productieproces aan toe, waardoor managers dieper inzicht krijgen in inefficiënties zonder fysiek aanwezig te hoeven zijn.
+Gemba Walks moedigen managers aan om operaties direct te observeren. Digital-twin-technologie voegt daar een realtime digitale replica van het productieproces aan toe, waardoor managers dieper inzicht krijgen in inefficiënties zonder fysiek aanwezig te hoeven zijn.
 
 ## Chapter-tag en redenering
 

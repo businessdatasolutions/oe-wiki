@@ -1,7 +1,7 @@
 ---
 type: boek-concept
 title: "Ch03 — Operations strategy"
-description: "Wat is operations-strategie, en hoe verhoudt die zich tot de bedrijfsstrategie? Vier perspectieven — top-down, bottom-up, marktgedreven en resource-gedreven — moeten verzoend worden tot één samenhangende strategie."
+description: "Wat is operations-strategie, en hoe verhoudt die zich tot de bedrijfsstrategie? Vier perspectieven (top-down, bottom-up, marktgedreven en resource-gedreven) moeten verzoend worden tot één samenhangende strategie."
 stage: direct
 tags: [boek-concept, ch03]
 confidence: 0.7
@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Ch03 — Operations strategy
 
-Wat is operations-strategie, en hoe verhoudt die zich tot de bedrijfsstrategie? Vier perspectieven — top-down, bottom-up, marktgedreven en resource-gedreven — moeten verzoend worden tot één samenhangende strategie. Dit hoofdstuk leert studenten waarom geen van de vier op zichzelf volstaat.
+Wat is operations-strategie, en hoe verhoudt die zich tot de bedrijfsstrategie? Vier perspectieven (top-down, bottom-up, marktgedreven en resource-gedreven) moeten verzoend worden tot één samenhangende strategie. Dit hoofdstuk leert studenten waarom geen van de vier op zichzelf volstaat.
 
 ## Positie in het weekprogramma
 

@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # Strategy
 
-Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace — het origineel-slug, het originele paginatype, en waarom de pagina relevant is voor deze cursus — zodat de link traceerbaar blijft zonder de externe wiki's content te fabriceren.
+Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace: het origineel-slug, het originele paginatype en waarom de pagina relevant is voor deze cursus, zodat de link traceerbaar blijft zonder de content van de externe wiki te fabriceren.
 
 - **Origineel pad (extern, AI-Wiki):** `wiki/concepts/strategy.md`
 - **Origineel paginatype:** concept

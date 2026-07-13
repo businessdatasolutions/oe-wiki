@@ -11,7 +11,7 @@ last_confirmed: "2026-07-12"
 
 # 5S ↔ IoT Sensors
 
-Referentiepagina 2/23 uit Gomaa (2025) Tabel VII — de 23 gedocumenteerde koppelingen tussen een
+Referentiepagina 2/23 uit Gomaa (2025) Tabel VII: de 23 gedocumenteerde koppelingen tussen een
 klassiek Lean-tool en een Industrie-4.0-technologie.
 
 ## De koppeling (Tabel VII)
@@ -30,7 +30,7 @@ klassiek Lean-tool en een Industrie-4.0-technologie.
 
 - **Hoofdstuk:** Ch16
 - **D-fase:** develop
-- **Redenering:** 5S is een van de klassieke Lean-basistools die in Ch16 (Lean operations) samen met JIT, Kanban en Kaizen wordt behandeld als onderdeel van de Lean-toolkit.
+- **Redenering:** 5S is een van de klassieke Lean-basistools die in Ch16 (Lean operations) samen met JIT, Kanban en Kaizen worden behandeld als onderdeel van de Lean-toolkit.
 
 ## Citations
 
