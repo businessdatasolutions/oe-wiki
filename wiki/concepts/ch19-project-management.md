@@ -13,15 +13,9 @@ last_confirmed: "2026-07-12"
 
 Projectmanagement voegt de planning, uitvoering en beheersing van eenmalige, tijdelijke initiatieven toe. Gate 4 sluit het Develop-deel én het reguliere collegeprogramma af.
 
-## Positie in het weekprogramma
-
-- **D-fase:** Develop
-- **Week:** week 14
-- **Gate:** Gate 4 (Socratisch + peer)
-
-Sluit het Develop-deel van de cursus af (week 13–14). Ná Gate 4 volgt in week 15 de capstone (DMAIC-synthese + criterion-based interview).
+Sluit het Develop-deel van de cursus af. Ná Gate 4 volgt de capstone (DMAIC-synthese + criterion-based interview).
 
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 19: "Project management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma), week 14.
+[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

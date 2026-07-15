@@ -66,7 +66,7 @@ _None yet._
 
 ## Concepts: AI-Wiki-contentmap (`type: ai-wiki-contentmap`, FR-19)
 
-* [Manditereza (2026) — Ontology-driven industrial AI](concepts/ai-wiki/2026-02-01-manditereza-ontology-driven-industrial-ai.md) - Levert het technologiesubstraat (semantisch model/kennisgraaf) onder procesautomatisering, aansluitend op de Human-CPS-laag van week 9 en bruikbaar bij de Ch8-procestechnologiestof.
+* [Manditereza (2026) — Ontology-driven industrial AI](concepts/ai-wiki/2026-02-01-manditereza-ontology-driven-industrial-ai.md) - Levert het technologiesubstraat (semantisch model/kennisgraaf) onder procesautomatisering, aansluitend op de Human-CPS-laag van Ch9 en bruikbaar bij de Ch8-procestechnologiestof.
 * [Carrier (MIT, 2026) — Heineken Mexico changeover-case](concepts/ai-wiki/2026-03-31-carrier-mit-industrial-ai-heineken.md) - Gekwantificeerde Deliver-fase-capaciteits-/OEE-case: omsteltijd van 6 uur naar 15 minuten, +1 miljoen kratten/maand via een eenvoudige AI-agent, naast de klassieke OEE/capaciteitsstof van Ch11.
 * [Bansal & Birkinshaw (2025) — drie innovatiemodi](concepts/ai-wiki/2026-04-28-bansal-birkinshaw-systems-thinking.md) - Concrete pedagogiek en toolkit-content voor het selecteren en aanleren van verbeteraanpakken (leeruitkomst 5).
 * [Gomaa (2025) — Lean 4.0 (bronpagina)](concepts/ai-wiki/2026-04-28-gomaa-lean-4-0.md) - Directe hit: dezelfde paper als de LRD's Lean 4.0-hoofdstuk en DMAIC-capstone.
@@ -94,9 +94,9 @@ _None yet._
 
 _None yet._
 
-## Weeks: week-landingspagina's (`type: week-landing`, FR-13 scaffolding)
+## Fasen: D-fase-landingspagina's (`type: week-landing`, FR-13 scaffolding)
 
-* [Deliver — week 9–12](weeks/deliver.md) - Deliver-fase: het plannen en beheersen van de lopende operatie (Ch9–14). Sluit af met Gate 3 in week 12; bevat ook de tussentijdse studievoortgangstoets (sectie 6.4a, week 10).
-* [Design — week 5–8](weeks/design.md) - Design-fase: het vormgeven van processen en resources (Ch5–8). Sluit af met Gate 2 in week 8.
-* [Develop — week 13–14](weeks/develop.md) - Develop-fase: het ontwikkelen van de capaciteiten van de operatie (Ch15–19), met de Lean 4.0-laag (Gomaa, 2025) op week 13. Sluit af met Gate 4 in week 14; direct gevolgd door de DMAIC-capstone in week 15.
-* [Direct — week 1–4](weeks/direct.md) - Direct-fase: het sturen van de operationele strategie (Ch1–4). Sluit af met Gate 1 in week 4.
+* [Deliver](weeks/deliver.md) - Deliver-fase: het plannen en beheersen van de lopende operatie (Ch9–14). Sluit af met Gate 3.
+* [Design](weeks/design.md) - Design-fase: het vormgeven van processen en resources (Ch5–8). Sluit af met Gate 2.
+* [Develop](weeks/develop.md) - Develop-fase: het ontwikkelen van de capaciteiten van de operatie (Ch15–19), met de Lean 4.0-laag (Gomaa, 2025). Sluit af met Gate 4; daarna volgt de DMAIC-capstone.
+* [Direct](weeks/direct.md) - Direct-fase: het sturen van de operationele strategie (Ch1–4). Sluit af met Gate 1.

@@ -22,15 +22,9 @@ Waarom is operationele prestatie cruciaal, op maatschappelijk, strategisch én o
 - 2.5 How can operations performance be measured?
 - 2.6 How do operations performance objectives trade off against each other?
 
-## Positie in het weekprogramma
-
-- **D-fase:** Direct
-- **Week:** week 2
-- **Gate:** geen gate deze week
-
 Het hoofdstuk bevat de "Case study: IKEA looks to the future" (zie de bedrijfscasepagina [[ikea]] in `wiki/sources/`).
 
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 2: "Operations performance".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma), week 2.
+[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

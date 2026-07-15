@@ -22,15 +22,9 @@ Wat is operations, en wat doet een operations manager? Het input-transformatie-o
 - 1.5 How do operations (and processes) differ?
 - 1.6 What do operations managers do?
 
-## Positie in het weekprogramma
-
-- **D-fase:** Direct
-- **Week:** week 1
-- **Gate:** geen gate deze week
-
-Week 1 is de kick-off van de cursus: teams worden gevormd, review-ringen toegewezen en er is een kalibratie-oefenreview zonder gate-gevolg. Geen gate deze week.
+Dit hoofdstuk opent de cursus: teams worden gevormd, review-ringen toegewezen en er is een kalibratie-oefenreview zonder gate-gevolg. Geen gate deze week.
 
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 1: "Operations management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma), week 1.
+[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

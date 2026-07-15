@@ -1,7 +1,7 @@
 ---
 type: ai-wiki-contentmap
 title: "Manditereza (2026): ontology-driven industrial AI"
-description: "Levert het technologiesubstraat (semantisch model/kennisgraaf) onder procesautomatisering, aansluitend op de Human-CPS-laag van week 9 en bruikbaar bij de Ch8-procestechnologiestof."
+description: "Levert het technologiesubstraat (semantisch model/kennisgraaf) onder procesautomatisering, aansluitend op de Human-CPS-laag van Ch9 en bruikbaar bij de Ch8-procestechnologiestof."
 stage: deliver
 tags: [ai-wiki, orig-source]
 confidence: 0.7
@@ -19,7 +19,7 @@ Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina be
 
 ## Waarom relevant voor deze cursus
 
-Levert het technologiesubstraat (semantisch model/kennisgraaf) onder procesautomatisering, aansluitend op de Human-CPS-laag van week 9 en bruikbaar bij de Ch8-procestechnologiestof.
+Levert het technologiesubstraat (semantisch model/kennisgraaf) onder procesautomatisering, aansluitend op de Human-CPS-laag van Ch9 en bruikbaar bij de Ch8-procestechnologiestof.
 
 ## Citations
 
