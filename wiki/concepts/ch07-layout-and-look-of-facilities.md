@@ -18,4 +18,3 @@ Deze wiki koppelt de tag Cellular Manufacturing (Gomaa Tabel VII, item 17; zie [
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 7: "The layout and look of facilities".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

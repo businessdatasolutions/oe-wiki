@@ -38,16 +38,6 @@ reactie op klantbehoeften, grotere betrokkenheid, minder verloop) komen met kost
 selectie- en trainingskosten, risico op ervaren ongelijkheid en het risico op minder goede beslissingen
 door medewerkers zonder het bredere overzicht van een manager.
 
-## Toepassing op de kernvragen (§2.5)
-
-> Hoe probeert deze organisatie te concurreren? Wat kan de operationele functie daaraan bijdragen? (LRD §2.5: de twee kernvragen die elke bedrijfscase in deze wiki toetst.)
-
-Michelin's operationele functie draagt bij aan het concurrentievermogen via **snelheid van
-besluitvorming en flexibiliteit** dicht bij de klant en het proces: beslissingen die dichter bij de bron
-liggen, hoeven niet eerst via een managementhiërarchie omhoog en weer terug. Dit is een directe illustratie
-van hoe baanontwerp (Ch9, jobdesign) een operationeel-performance-keuze is, niet alleen een HR-vraagstuk, en
-is relevant voor leeruitkomst 3 (procesontwerp dat past bij de beschikbare middelen, hier: mensen).
-
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 9, "Michelin calls it ‘responsabilisation’" (Operations in practice).

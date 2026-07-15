@@ -30,7 +30,7 @@ Kanban verbetert materiaalstroom en taakbeheer. Digitale Kanban-borden bieden ve
 
 - **Hoofdstuk:** Ch16
 - **D-fase:** develop
-- **Redenering:** **Anker (LRD Deel 6.2, expliciet vastgelegd):** Kanban wordt gekoppeld aan Digitale Kanban-borden, met `ch16` (Lean operations) en `stage: develop`.
+- **Redenering:** **Anker:** Kanban wordt gekoppeld aan Digitale Kanban-borden, met `ch16` (Lean operations) en `stage: develop`.
 
 ## Citations
 

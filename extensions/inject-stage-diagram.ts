@@ -30,12 +30,14 @@ const STAGE_LABELS: Record<Stage, string> = {
   develop: "Develop",
 }
 
-const STAGE_WEEKS: Record<Stage, string> = {
-  direct: "wk 1–4",
-  design: "wk 5–8",
-  deliver: "wk 9–12",
-  develop: "wk 13–14",
-}
+// Geen weeknummers in dit diagram, en ook niet in de caption. Dit diagram
+// droeg per fase een weekbereik, en wel dat van het oude, kortere programma --
+// de weeknummer-guard scant markdown en zag deze gegenereerde SVG dus nooit,
+// waardoor de wiki "schoon" heette en de tegenspraak intussen op alle vier de
+// fasepagina's publiceerde. De weekindeling staat op één plek: LRD Deel 8,
+// afgeleid in het Onderwijsprogramma van het studentportaal. Wat de wiki niet
+// zegt, kan de wiki niet tegenspreken. (Ook deze comment noemt daarom geen
+// weeknummer: test_wiki_no_week_numbers.py scant dit bestand.)
 
 // Node centers, arranged as a compass around the central hub (viewBox 0 0 320 320),
 // matching the book's own diagram layout (top/left/bottom/right around a
@@ -124,13 +126,8 @@ function buildDiagram(activeStage: Stage): Element {
       h("circle", { cx: String(pos.x), cy: String(pos.y), r: String(NODE_R) }),
       h(
         "text",
-        { x: String(pos.x), y: String(pos.y - 3), textAnchor: "middle" },
+        { x: String(pos.x), y: String(pos.y + 5), textAnchor: "middle" },
         [text(STAGE_LABELS[stage])],
-      ),
-      h(
-        "text",
-        { x: String(pos.x), y: String(pos.y + 15), textAnchor: "middle", className: ["stage-diagram-week"] },
-        [text(STAGE_WEEKS[stage])],
       ),
     ]
 
@@ -177,9 +174,8 @@ function buildDiagram(activeStage: Stage): Element {
   )
 
   const caption = h("p", { className: ["stage-diagram-caption"] }, [
-    text(`4D-navigatie (LRD §6.2, FR-13) · huidige fase: `),
+    text(`4D-navigatie · huidige fase: `),
     h("strong", {}, [text(STAGE_LABELS[activeStage])]),
-    text(` (${STAGE_WEEKS[activeStage]})`),
   ])
 
   return h("figure", { className: ["stage-diagram-figure"] }, [svg, caption])

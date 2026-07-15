@@ -23,7 +23,7 @@ _None yet._
 * [Ch03 — Operations strategy](concepts/ch03-operations-strategy.md) - Wat is operations-strategie, en hoe verhoudt die zich tot de bedrijfsstrategie? Vier perspectieven (top-down, bottom-up, marktgedreven en resource-gedreven) moeten verzoend worden tot één samenhangende strategie.
 * [Ch04 — Managing product and service innovation](concepts/ch04-product-service-innovation.md) - Wat is product- en dienstinnovatie, en welke strategische rol speelt ze in concurrentievoordeel? De fasen van het innovatieproces (van idee tot marktintroductie) bepalen hoe vernieuwing georganiseerd en gefinancierd wordt.
 * [Ch05 — The structure and scope of supply](concepts/ch05-structure-scope-of-supply.md) - Hoe wordt het netwerk van processen geconfigureerd: hoeveel capaciteit, waar gevestigd, hoe verticaal geïntegreerd? De make-or-buy-vraag (welke activiteiten in-house blijven en welke worden uitbesteed) bepaalt de grenzen van de organisatie.
-* [Ch06 — Process design](concepts/ch06-process-design.md) - Wat is procesontwerp, en welke doelstellingen moet het dienen? Volume en variëteit bepalen fundamenteel hoe een proces wordt ingericht: Mass Customisation, mogelijk gemaakt door het Social Internet of Things, laat zien hoe cyber-physical systems massaproductie tóch individueel aanpasbaar maken (Pant et al., 2025; LRD sectie 6.9).
+* [Ch06 — Process design](concepts/ch06-process-design.md) - Wat is procesontwerp, en welke doelstellingen moet het dienen? Volume en variëteit bepalen fundamenteel hoe een proces wordt ingericht: Mass Customisation, mogelijk gemaakt door het Social Internet of Things, laat zien hoe cyber-physical systems massaproductie tóch individueel aanpasbaar maken (Pant et al., 2025).
 * [Ch07 — The layout and look of facilities](concepts/ch07-layout-and-look-of-facilities.md) - Hoe beïnvloedt de indeling en uitstraling van faciliteiten de operationele prestaties? De basale layout-typen (van vaste positie tot productlijn) hebben elk hun eigen sterke en zwakke punten.
 * [Ch08 — Process technology](concepts/ch08-process-technology.md) - Wat is procestechnologie, en waarom wordt haar belang steeds groter? Nieuwe technologieën moeten beoordeeld worden op hun potentieel vóórdat ze ontwikkeld en geïmplementeerd worden. Digital twins, AR/VR en cobots zijn actuele voorbeelden die al vooruitblikken op de kritische lens uit sectie 6.9.
 * [Ch09 — People in operations](concepts/ch09-people-in-operations.md) - Waarom zijn mensen zo bepalend voor het functioneren van een organisatie, en hoe wordt de operationele functie georganiseerd? Baanontwerp en werktijdallocatie bepalen hoe medewerkers hun werk ervaren en uitvoeren. Industry 5.0 voegt toe dat mens-robotsamenwerking (cobots) en welzijn evengoed ontwerpkeuzes zijn, niet een sluitpost van automatisering (Pant et al., 2025).
@@ -64,12 +64,12 @@ _None yet._
 * [Heijunka (Production Leveling) ↔ ERP Systems](concepts/lean-i40-22-heijunka-production-leveling-erp-systems.md) - Balance production schedules to manage demand fluctuations and reduce waste.
 * [Total Maintenance System (TMS) ↔ Cloud-Based Maintenance Platforms](concepts/lean-i40-23-total-maintenance-system-tms-cloud-based-maintenance-platfor.md) - Centralize and streamline maintenance management using data-driven decisions.
 
-## Concepts: AI-Wiki-contentmap (`type: ai-wiki-contentmap`, FR-19)
+## Concepts: AI-Wiki-contentmap (`type: ai-wiki-contentmap`)
 
 * [Manditereza (2026) — Ontology-driven industrial AI](concepts/ai-wiki/2026-02-01-manditereza-ontology-driven-industrial-ai.md) - Levert het technologiesubstraat (semantisch model/kennisgraaf) onder procesautomatisering, aansluitend op de Human-CPS-laag van Ch9 en bruikbaar bij de Ch8-procestechnologiestof.
 * [Carrier (MIT, 2026) — Heineken Mexico changeover-case](concepts/ai-wiki/2026-03-31-carrier-mit-industrial-ai-heineken.md) - Gekwantificeerde Deliver-fase-capaciteits-/OEE-case: omsteltijd van 6 uur naar 15 minuten, +1 miljoen kratten/maand via een eenvoudige AI-agent, naast de klassieke OEE/capaciteitsstof van Ch11.
 * [Bansal & Birkinshaw (2025) — drie innovatiemodi](concepts/ai-wiki/2026-04-28-bansal-birkinshaw-systems-thinking.md) - Concrete pedagogiek en toolkit-content voor het selecteren en aanleren van verbeteraanpakken (leeruitkomst 5).
-* [Gomaa (2025) — Lean 4.0 (bronpagina)](concepts/ai-wiki/2026-04-28-gomaa-lean-4-0.md) - Directe hit: dezelfde paper als de LRD's Lean 4.0-hoofdstuk en DMAIC-capstone.
+* [Gomaa (2025) — Lean 4.0 (bronpagina)](concepts/ai-wiki/2026-04-28-gomaa-lean-4-0.md) - Directe hit: dezelfde paper als het Lean 4.0-hoofdstuk en de DMAIC-capstone.
 * [Werner & Le-Brun (2025) — Tin Man/Octopus-archetypen](concepts/ai-wiki/2026-04-28-werner-lebrun-octopus-organization.md) - Verandermanagement- en risico-content voor Ch18, met een ontnuchterende 12%-transformatie-succesbaseline als citeerbare statistiek.
 * [Carucci (2026) — resistance-as-data](concepts/ai-wiki/2026-05-07-carucci-resistance-as-data.md) - Verandermanagement- en risicoraamwerk voor de Develop-fase Ch18 (risicomanagement en herstel).
 * [Sterman (2026) — causal mapping en flight simulators](concepts/ai-wiki/2026-05-15-sterman-systems-thinking-for-leaders.md) - Causal mapping en management flight simulators als kwaliteits-/verbeter-toolkit-content, complementair aan Bansal & Birkinshaw.
@@ -79,7 +79,7 @@ _None yet._
 * [Dynamic capabilities](concepts/ai-wiki/dynamic-capabilities.md) - Teece's sense/seize/transform-raamwerk vormt het academische fundament onder de eerste kernvraag uit sectie 2.5: 'Hoe probeert deze organisatie te concurreren?'.
 * [Enterprise AI adoption](concepts/ai-wiki/enterprise-ai-adoption.md) - Meta-lens voor de Industry 5.0-kritische-lens-discussie (sectie 6.9); helpt bepalen of een voorgestelde digitale oplossing vooral een Industry 4.0- of Industry 5.0-antwoord is.
 * [Industry 4.0](concepts/ai-wiki/industry-4-0.md) - Levert de cyber-physical-systems-, digital-twin- en industriële-robotica-adoptiedata-framing die de 'procestechnologie'-ruggengraat vormt voor Ch7–8.
-* [Lean 4.0](concepts/ai-wiki/lean-4-0.md) - De meest directe hit op de LRD's eigen Lean 4.0-hoofdstuk: de 23x23 Lean-tool↔Industrie-4.0-mapping (Gemba Walk↔Digital Twin, Kanban↔Digital Kanban Boards, Poka-Yoke↔Sensor-Based Error Detection, e.v.), het 9-staps implementatieraamwerk, en Gomaa's eigen DMAIC-voor-Lean-4.0-tabel.
+* [Lean 4.0](concepts/ai-wiki/lean-4-0.md) - De meest directe hit op het Lean 4.0-hoofdstuk: de 23x23 Lean-tool↔Industrie-4.0-mapping (Gemba Walk↔Digital Twin, Kanban↔Digital Kanban Boards, Poka-Yoke↔Sensor-Based Error Detection, e.v.), het 9-staps implementatieraamwerk, en Gomaa's eigen DMAIC-voor-Lean-4.0-tabel.
 * [Micro-productivity trap](concepts/ai-wiki/micro-productivity-trap.md) - Benoemt waar AI-gedreven 'verbetering' waarde lekt in planning en control (offering-lock-in / process-lock-in), een waarschuwend tegenwicht bij Ch10–13 wanneer de cursus Industrie 4.0/5.0-technologie-adoptie behandelt.
 * [Organizational frameworks for AI adoption (synthese)](concepts/ai-wiki/organizational-frameworks-for-ai-adoption.md) - Vergelijkt 11 concurrerende raamwerken en benoemt expliciet waar ze het oneens zijn, goede scaffolding voor de verplichte 'welke klassieke concepten blijven geldig, versterken, of worden verouderd onder Lean 4.0/Industry 5.0'-kritische-lens-paragraaf.
 * [Strategy](concepts/ai-wiki/strategy.md) - Martin's theory-of-winning en Oberholzer-Gee's value-stick-perspectieven, rechtstreeks bruikbaar voor de Direct-fase-kernvragen uit sectie 2.5 en voor het positioneren van een operations-strategie (Ch3, leeruitkomst 2).
@@ -94,7 +94,7 @@ _None yet._
 
 _None yet._
 
-## Fasen: D-fase-landingspagina's (`type: week-landing`, FR-13 scaffolding)
+## Fasen: D-fase-landingspagina's (`type: week-landing`)
 
 * [Deliver](weeks/deliver.md) - Deliver-fase: het plannen en beheersen van de lopende operatie (Ch9–14). Sluit af met Gate 3.
 * [Design](weeks/design.md) - Design-fase: het vormgeven van processen en resources (Ch5–8). Sluit af met Gate 2.

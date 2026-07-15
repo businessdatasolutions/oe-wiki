@@ -18,4 +18,3 @@ Dit hoofdstuk sluit het Direct-deel van de cursus af. Het hoofdstuk bevat 'Toyot
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 4: "Managing product and service innovation".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

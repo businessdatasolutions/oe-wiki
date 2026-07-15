@@ -36,18 +36,6 @@ personeelstekort dat niet met "verlof terugkopen"-regelingen kon worden opgelost
 de FTL-regels dat niet altijd toestonden en piloten niet altijd bereid waren hun geplande verlof te
 wijzigen.
 
-## Toepassing op de kernvragen (sectie 2.5)
-
-> Hoe probeert deze organisatie te concurreren? Wat kan de operationele functie daaraan bijdragen? (LRD sectie 2.5: de twee kernvragen die elke bedrijfscase in deze wiki toetst.)
-
-Ryanair concurreert op **kosten** (de klassieke lagekostenmaatschappij-strategie), wat een
-operationele functie vereist die met minimale marges plant, inclusief personeelsplanning die zeer
-weinig speling laat. De case laat zien hoe een *planning-and-control*-fout (Ch10), en niet een productie- of
-technisch defect, direct de kernperformance-objectieven **betrouwbaarheid** en **snelheid** (Ch2) kan
-ondermijnen, met reputatieschade als gevolg. Dit maakt de case een directe illustratie van leeruitkomst 4
-(planning- en controlbeslissingen analyseren en op elkaar afstemmen) en van hoe een externe
-regelgevingswijziging (de FTL-telling) een intern planningsproces kan doen ontsporen.
-
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 10, "Ryanair cancels flights after ‘staff scheduling’ errors" (Operations in practice).

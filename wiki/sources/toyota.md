@@ -33,22 +33,13 @@ uitgangspunt dat er altijd naar verbetering gezocht moet worden ('better never s
 
 Het boek benoemt Toyota's Gemba Walk-praktijk ('go to the place where the work actually takes place') als
 kernonderdeel van hoe managers begrip van het werk opbouwen. Ook noemt het boek Toyota's investering in
-mentorschap richting zijn toeleveringsnetwerk om Lean-principes daar te verankeren.
+mentorschap richting zijn toeleveringsnetwerk om Lean-principes daar te verankeren. Gomaa (2025) plaatst
+deze praktijk naast een digitale variant ([[lean-i40-01-gemba-walk-digital-twin]]), als een van de 23
+koppelingen tussen klassieke Lean-tools en Industrie 4.0-technologie in Tabel VII.
 
 Een tweede, aanvullende vermelding van Toyota staat in Ch4 (Managing product and service innovation):
 "Toyota's approach to organising innovation". Deze vermelding beschrijft hoe het bedrijf zijn
-innovatieproces structureert en is relevant voor het Direct-deel van de cursus (LO2).
-
-## Toepassing op de kernvragen (sectie 2.5)
-
-> Hoe probeert deze organisatie te concurreren? Wat kan de operationele functie daaraan bijdragen? (LRD sectie 2.5: de twee kernvragen die elke bedrijfscase in deze wiki toetst.)
-
-Toyota concurreert op **kwaliteit en kosten tegelijk**, niet via een trade-off tussen die twee
-(de klassieke performance-objectiveafweging uit Ch2), maar door verspilling structureel te elimineren
-zodat beide objectives tegelijk verbeteren. Dit maakt Toyota het canonieke tegenvoorbeeld bij Gate 4/de
-Lean 4.0-kritische lens (LRD sectie 6.9). Waar Industrie 4.0-technologie klassieke Lean-tools versterkt
-(Gomaa, 2025), blijft Toyota's kernpunt dat technologie zonder de onderliggende continue-verbetercultuur
-weinig oplevert. Leeruitkomst 8/9 toetst precies die spanning.
+innovatieproces structureert.
 
 ## Citations
 

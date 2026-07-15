@@ -8,7 +8,7 @@ tags: [week-landing, deliver]
 
 # Deliver
 
-**Deliver** is de derde D-fase: het plannen en beheersen van de lopende operatie. Studenten doorlopen Ch9 (People in operations, met een Human-CPS-laag), Ch10+Ch11 (Planning and control; Capacity management), Ch12+Ch13 (Supply chain management; Inventory management, met een netwerkperspectief) en Ch14 (Planning and control systems). Binnen deze fase loopt, los van het gate-systeem, de institutioneel vereiste tussentijdse studievoortgangstoets (LRD §6.4a) — een vroege-signaleringsmoment, geen vijfde poort.
+**Deliver** is de derde D-fase: het plannen en beheersen van de lopende operatie. Studenten doorlopen Ch9 (People in operations, met een Human-CPS-laag), Ch10+Ch11 (Planning and control; Capacity management), Ch12+Ch13 (Supply chain management; Inventory management, met een netwerkperspectief) en Ch14 (Planning and control systems). Binnen deze fase loopt, los van het gate-systeem, de institutioneel vereiste tussentijdse studievoortgangstoets — een vroege-signaleringsmoment, geen vijfde poort.
 
 ## Hoofdstukken
 
@@ -23,14 +23,10 @@ Gate 3 (Socratisch + peer), aan het einde van deze fase.
 
 ## Wanneer is dit?
 
-Deze wiki noemt bewust geen weeknummers. De weekindeling staat op één plek — LRD Deel 8 — en je ziet hem in het Onderwijsprogramma in de portal. Zo kan de planning schuiven zonder dat deze pagina's stilzwijgend verouderen.
+Deze wiki noemt bewust geen weeknummers. De weekindeling staat op één plek: het Onderwijsprogramma in het studentportaal. Zo kan de planning schuiven zonder dat deze pagina's stilzwijgend verouderen.
 
 ## Zie ook
 
 - [[warner-wager-process-model]] — rolgebaseerde digitale-transformatie-vocabulaire, bruikbaar door alle
   vier D-fasen heen (AI-Wiki-contentmap, `wiki/concepts/ai-wiki/`).
 - De overige drie D-fase-landingspagina's: [[direct]], [[design]], [[develop]]
-
-## Citations
-
-[1] LRD — Operational Excellence, Deel 6 (4D-model en gates), §6.4a (studievoortgangstoets).

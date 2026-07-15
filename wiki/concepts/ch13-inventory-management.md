@@ -18,4 +18,3 @@ Het hoofdstuk bevat "Amazon's 'anticipatory inventory'" (zie de bedrijfscasepagi
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 13: "Inventory management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

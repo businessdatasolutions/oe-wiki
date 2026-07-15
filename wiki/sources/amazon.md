@@ -12,7 +12,7 @@ accessed_at: "2026-07-12"
 
 # Amazon
 
-Amazon is de enige onderneming in de vijf-bedrijven-startset (LRD sectie 1.1) die in het bronboek **drie keer**
+Amazon is de enige onderneming in de vijf-bedrijven-startset die in het bronboek **drie keer**
 als afzonderlijk 'Operations in practice'-voorbeeld terugkeert, verspreid over drie hoofdstukken. Deze
 pagina bundelt alle drie, met de primaire `stage`-tag op Ch15 (Operations improvement) omdat dat de
 inhoudelijk rijkste en meest illustratieve van de drie is voor de Develop-fase van de cursus.
@@ -48,17 +48,6 @@ systematisch productdefect signaleert. Bij vermoeden daarvan kunnen zij een prod
 [[lean-i40-15-andon-real-time-alert-systems]]), terwijl het probleem wordt onderzocht. Amazon claimt dat
 in circa 98% van de gevallen waarin dit gebeurt, er daadwerkelijk sprake blijkt van een systematisch
 probleem, en dat de aanpak tienduizenden defecten per jaar heeft geëlimineerd.
-
-## Toepassing op de kernvragen (sectie 2.5)
-
-> Hoe probeert deze organisatie te concurreren? Wat kan de operationele functie daaraan bijdragen? (LRD sectie 2.5: de twee kernvragen die elke bedrijfscase in deze wiki toetst.)
-
-Amazon concurreert op **snelheid en betrouwbaarheid van levering tegen lage kosten**, een
-combinatie van performance-objectieven (Ch2) die het bedrijf bereikt door operationele verbetering
-systematisch in te bedden op elk niveau: voorspellende voorraad (strategisch/tactisch, Ch13),
-continue verbeterdiscipline op de werkvloer (operationeel, Ch15) en gedelegeerde beslissingsbevoegdheid
-bij klantcontact (Ch16). Samen illustreren de drie voorbeelden leeruitkomst 5 (een verbeteraanpak
-selecteren en onderbouwen) beter dan één enkel voorbeeld zou kunnen.
 
 ## Citations
 

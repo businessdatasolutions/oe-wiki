@@ -18,4 +18,3 @@ Sluit het Design-deel van de cursus af. Industry 5.0-verrijking: digital twins, 
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 8: "Process technology".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

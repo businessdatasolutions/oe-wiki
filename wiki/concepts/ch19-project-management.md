@@ -18,4 +18,3 @@ Sluit het Develop-deel van de cursus af. Ná Gate 4 volgt de capstone (DMAIC-syn
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 19: "Project management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

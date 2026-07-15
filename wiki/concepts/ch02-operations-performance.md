@@ -27,4 +27,3 @@ Het hoofdstuk bevat de "Case study: IKEA looks to the future" (zie de bedrijfsca
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 2: "Operations performance".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

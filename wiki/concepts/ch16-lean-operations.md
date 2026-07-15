@@ -18,4 +18,3 @@ Lean elimineert verspilling via tools als Kaizen, JIT en Kanban. Deze week worde
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 16: "Lean operations".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

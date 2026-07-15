@@ -18,4 +18,3 @@ Het hoofdstuk bevat "Michelin calls it 'responsabilisation'"; zie de bedrijfscas
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 9: "People in operations".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

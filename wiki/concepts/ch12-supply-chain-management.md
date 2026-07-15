@@ -13,9 +13,8 @@ last_confirmed: "2026-07-12"
 
 Supply chain management onderzoekt hoe ketens concurreren en hoe relaties tussen schakels (aan zowel de vraag- als de aanbodzijde) beheerd worden. Pant et al. (2025) pleiten ervoor 'chain' te vervangen door 'network', omdat leveranciers-van-leveranciers en klanten-van-klanten de praktijk beter beschrijven, met blockchain voor traceerbaarheid.
 
-Industry 5.0-verrijkingsweek: het netwerkperspectief op supply chains (Pant et al., 2025, LRD paragraaf 6.9). Gecombineerd met Ch13.
+Industry 5.0-verrijkingsweek: het netwerkperspectief op supply chains (Pant et al., 2025). Gecombineerd met Ch13.
 
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 12: "Supply chain management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

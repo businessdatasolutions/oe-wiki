@@ -35,6 +35,9 @@ in plaats van een volledige verschuiving naar e-commerce) en opende de deur naar
 onafhankelijke online derde partijen, wat IKEA's CEO Torbjörn Lööf omschreef als "the biggest
 development in how consumers meet Ikea since the concept was founded".
 
+Een tweede, kortere vermelding van IKEA staat in Ch17 (Quality management): het gebruik van
+augmented-reality-technologie om klanten te helpen inschatten hoe meubels in hun eigen ruimte passen.
+
 ## Duurzaamheid
 
 IKEA is een van 's werelds grootste houtgebruikers (~1% van al het hout wereldwijd) en kreeg kritiek op
@@ -43,21 +46,6 @@ sustainability officer en verkende het circulaire-economiemodel: in België kreg
 oude IKEA-meubels een tweede leven te geven (terugverkoop, opnieuw stofferen, repareren met
 vervangonderdelen, retourneren via het transportkanaal of doneren). Tegen kritiek dat dit slecht voor het
 bedrijf zou zijn, meldde IKEA juist omzetgroei te zien nadat het in Aalborg meubels begon terug te kopen.
-
-## Toepassing op de kernvragen (§2.5)
-
-> Hoe probeert deze organisatie te concurreren? Wat kan de operationele functie daaraan bijdragen? (LRD §2.5: de twee kernvragen die elke bedrijfscase in deze wiki toetst.)
-
-IKEA concurreert primair op **kosten en toegankelijkheid van design** (een breed assortiment
-Scandinavisch design tegen lage prijzen, zelfbediening als kostenverlager). De operationele functie
-droeg dit decennialang via een zeer gestandaardiseerde, hoogvolume winkelformule. De heroriëntatie
-(kleinere winkels, TaskRabbit, multichannel) verschuift het accent van pure kostenleiderschap naar
-**flexibiliteit en gemak**, zonder de kostenbasis los te laten: een directe illustratie van hoe
-performance-objectives (Ch2) verschuiven wanneer de marktcontext verandert.
-
-Een tweede, kortere vermelding van IKEA staat in Ch17 (Quality management): het gebruik van
-augmented-reality-technologie om klanten te helpen inschatten hoe meubels in hun eigen ruimte passen,
-relevant voor de kwaliteitsdimensie 'conformance aan klantverwachting' (LO9).
 
 ## Citations
 

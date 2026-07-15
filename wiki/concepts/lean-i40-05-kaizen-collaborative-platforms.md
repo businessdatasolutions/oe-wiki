@@ -30,7 +30,7 @@ Kaizen bevordert continue verbetering. Collaborative platforms versterken dit do
 
 - **Hoofdstuk:** Ch15
 - **D-fase:** develop
-- **Redenering:** **Anker (LRD Deel 6.2, expliciet vastgelegd):** Kaizen wordt gekoppeld aan Collaborative Platforms, met `ch15` (Operations improvement) en `stage: develop`. Kaizen is bovendien het onderwerp van de 'Kaizen at Amazon'-case in Ch15 zelf (zie [[amazon]]).
+- **Redenering:** **Anker:** Kaizen wordt gekoppeld aan Collaborative Platforms, met `ch15` (Operations improvement) en `stage: develop`. Kaizen is bovendien het onderwerp van de 'Kaizen at Amazon'-case in Ch15 zelf (zie [[amazon]]).
 
 ## Citations
 

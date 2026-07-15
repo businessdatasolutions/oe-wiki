@@ -11,11 +11,11 @@ last_confirmed: "2026-07-12"
 
 # Dumra / DBS Bank (MIT SMR, 2026): managing through journeys
 
-Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace: de originele slug, het originele paginatype en waarom de pagina relevant is voor deze cursus. Zo blijft de link traceerbaar zonder de content van de externe wiki te fabriceren.
+Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026. Deze wiki reproduceert hier alleen de bevindingen van die trace: de originele slug, het originele paginatype en waarom de pagina relevant is voor deze cursus. Zo blijft de link traceerbaar zonder de content van de externe wiki te fabriceren.
 
 - **Origineel pad (extern, AI-Wiki):** `wiki/sources/2026-06-18-dumra-mit-smr-dbs-everyone-an-innovator.md`
 - **Origineel paginatype:** source
-- **D-fase (LRD §8.1):** design
+- **D-fase:** design
 
 ## Waarom relevant voor deze cursus
 

@@ -18,4 +18,3 @@ Gecombineerd met Ch10, samen met de tussentijdse studievoortgangstoets (paragraa
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 11: "Capacity management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

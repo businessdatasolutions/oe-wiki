@@ -11,11 +11,11 @@ last_confirmed: "2026-07-12"
 
 # Manditereza (2026): ontology-driven industrial AI
 
-Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026 (FR-19). Deze wiki reproduceert hier alleen de bevindingen van die trace: de originele slug, het originele paginatype en waarom de pagina relevant is voor deze cursus, zodat de link traceerbaar blijft zonder de content van de externe wiki te fabriceren.
+Deze pagina is een **contentmap-verwijzing**, geen kopie. De volledige pagina bestaat in een aparte, nog niet publiek toegankelijke AI-Wiki-instantie die is doorzocht via een query-trace op 11 juli 2026. Deze wiki reproduceert hier alleen de bevindingen van die trace: de originele slug, het originele paginatype en waarom de pagina relevant is voor deze cursus, zodat de link traceerbaar blijft zonder de content van de externe wiki te fabriceren.
 
 - **Origineel pad (extern, AI-Wiki):** `wiki/sources/2026-02-01-manditereza-ontology-driven-industrial-ai.md`
 - **Origineel paginatype:** source
-- **D-fase (LRD §8.1):** deliver
+- **D-fase:** deliver
 
 ## Waarom relevant voor deze cursus
 

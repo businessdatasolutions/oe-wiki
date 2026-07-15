@@ -27,4 +27,3 @@ Dit hoofdstuk opent de cursus: teams worden gevormd, review-ringen toegewezen en
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 1: "Operations management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

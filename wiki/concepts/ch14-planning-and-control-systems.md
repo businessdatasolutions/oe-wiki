@@ -18,4 +18,3 @@ Sluit het Deliver-deel van de cursus af.
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 14: "Planning and control systems".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).

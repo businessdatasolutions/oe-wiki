@@ -18,4 +18,3 @@ Het hoofdstuk bevat 'Augmented reality technology adds to IKEA's service quality
 ## Citations
 
 [1] Slack, N., Brandon-Jones, A. & Burgess, N. (2022). *Operations Management*, 10th edition. Pearson. Hoofdstuk 17: "Quality management".
-[2] LRD — Operational Excellence, Deel 8 (Weekprogramma).
