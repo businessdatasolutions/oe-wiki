@@ -9,6 +9,13 @@ author: ["Ummadisetti, R.C.; France, K."]
 date_published: "2023"
 accessed_at: "2026-07-18"
 source_url: "https://youtu.be/nUNuNxMhwug"
+relationships:
+  - type: authored-by
+    target: Ravi-Chandu-Ummadisetti
+  - type: authored-by
+    target: Kordel-France
+  - type: published-by
+    target: Toyota
 ---
 
 # AI en Lean Productie — Lesmateriaal
@@ -19,7 +26,6 @@ source_url: "https://youtu.be/nUNuNxMhwug"
 - **Video:** https://youtu.be/nUNuNxMhwug
 
 [![ToyotaGPT Bouwen: 50+ Productie-Agenten, Eén Configuratiefbestand, Nul Architectuurbeoordelingen](https://img.youtube.com/vi/nUNuNxMhwug/sddefault.jpg)](https://youtu.be/nUNuNxMhwug)
-
 ## Samenvatting
 
 In deze presentatie beschrijven Ravi Chandu Ummadisetti en Kordel France van Toyota's enterprise AI-team hoe zij ToyotaGPT hebben ontwikkeld, een platform dat de implementatie van AI-agents aanzienlijk heeft versneld. Waar de ontwikkeling van een RAG (Retrieval Augmented Generation)-applicatie voorheen zes maanden en zes engineers in beslag nam, wordt dit nu in vier dagen door één engineer gerealiseerd. Dit is mogelijk gemaakt door het gebruik van LangGraph voor dynamische grafiekcreatie en het standaardiseren van de architectuur.
@@ -40,6 +46,20 @@ Het platform heeft de implementatie van meer dan 50 agents in productie mogelijk
 - **[11:19]** De analogie tussen een Andon board en LangSmith voor observeerbaarheid.
 - **[13:04]** Jidoka: automatisering met menselijke betrokkenheid, gerealiseerd door LangGraph.
 - **[15:21]** LangChain als het Toyota Production System voor het AI-tijdperk.
+
+---
+
+## Zie ook
+
+- [Ch03 — Operations strategy](../concepts/ch03-operations-strategy) — hoofdstuk
+- [Ch04 — Managing product and service innovation](../concepts/ch04-product-service-innovation) — hoofdstuk
+- [Ch08 — Process technology](../concepts/ch08-process-technology) — hoofdstuk
+- [Ch15 — Operations improvement](../concepts/ch15-operations-improvement) — hoofdstuk
+- [Ch16 — Lean operations](../concepts/ch16-lean-operations) — hoofdstuk
+- [Toyota](../sources/toyota) — verwant
+- [Jidoka (Autonomation) ↔ AI-Powered Monitoring Systems](../concepts/lean-i40-10-jidoka-autonomation-ai-powered-monitoring-systems) — verwant
+- [Manditereza (2026): ontology-driven industrial AI](../concepts/ai-wiki/2026-02-01-manditereza-ontology-driven-industrial-ai) — verwant
+- [Gomaa (2025): Lean 4.0 (bronpagina)](../concepts/ai-wiki/2026-04-28-gomaa-lean-4-0) — verwant
 
 ---
 
