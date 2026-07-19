@@ -17,7 +17,8 @@ source_url: "https://youtu.be/nUNuNxMhwug"
 **Speaker:** Ravi Chandu Ummadisetti — Head of Agent AI and product research, Toyota; Kordel France — Head of AI engineering, Toyota
 
 - **Video:** https://youtu.be/nUNuNxMhwug
-- **Thumbnail:** https://img.youtube.com/vi/nUNuNxMhwug/sddefault.jpg
+
+[![ToyotaGPT Bouwen: 50+ Productie-Agenten, Eén Configuratiefbestand, Nul Architectuurbeoordelingen](https://img.youtube.com/vi/nUNuNxMhwug/sddefault.jpg)](https://youtu.be/nUNuNxMhwug)
 
 ## Samenvatting
 
