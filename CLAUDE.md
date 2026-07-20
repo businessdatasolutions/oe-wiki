@@ -78,6 +78,7 @@ Periodic health check of the wiki.
 - Identify concepts mentioned but lacking their own page.
 - Note missing cross-references and data gaps that warrant a web search or new source.
 - Suggest new questions to investigate.
+- Run `node scripts/lint-source-neutrality.mjs` — catches `bedrijfscase-bron` pages that have drifted into answering the students' own kernvragen (see Working principles).
 Report findings; let the user decide what to act on.
 
 ## Verifying sources before ingest
@@ -443,6 +444,7 @@ Source pages ingested before this rule do not carry `## Appendix content`. Backf
 - **Verify before you trust.** Filenames lie, samples masquerade as full sources, PDFs get truncated, and the highest-leverage content is often locked in appendices that get silently skipped. Run the five pre-flight checks (scope, identity, honest scoping, visual inventory, appendix inventory) before any ingest. The cleanup cost of a wiki page written on incomplete or misidentified data is much higher than the verification cost.
 - **Co-evolve the schema.** When a workflow turns out to work well (or badly), update this file so future sessions inherit the lesson. The schema is meant to drift toward the user's actual workflow over time.
 - **Citations beat assertions.** Wiki claims should be traceable to a source. When synthesizing across sources, say so.
+- **A `bedrijfscase-bron` page supplies raw material, never the analysis.** It carries what the book reports about the company, with citations. It must NOT answer the two kernvragen from LRD §2.5 (*Hoe probeert deze organisatie te concurreren? Wat kan de operationele functie daaraan bijdragen?*), must not answer the Lean 4.0 critical-lens question from §6.9, and must not name gates or leeruitkomst numbers. That analysis is the students' work on their own `team-case` page (FR-01, FR-15). The reason is structural: §6.9 requires the Socratic tutor to cite these pages *"zonder ooit zelf te verklappen welk antwoord 'goed' is"* — a page that states the answer defeats that guarantee no matter how carefully the tutor is prompted. Enforced by `scripts/lint-source-neutrality.mjs`. Week-landing pages and the ai-wiki contentmap pages are exempt by design: posing the question and mapping content onto outcomes is navigation, not an answer.
 
 ## Tools and environment
 
